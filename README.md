@@ -6,3 +6,4 @@ one more timez
 ssh check
 check again ssh
 Final ssh check
+check new pcin temp
