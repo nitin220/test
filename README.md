@@ -6,4 +6,6 @@ one more timez
 ssh check
 check again ssh
 Final ssh check
-check new pcin temp
+check new pc in temp
+Checking on 31 dec 2017 on new pc
+
